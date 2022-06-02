@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Campos">
+    <item>Nombre</item>
+    <item>Edad</item>
+    <item>Telephone</item>
+    <item>E-mail</item>
+</string-array>
+</resources>
